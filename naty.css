@@ -11,4 +11,8 @@ margin: 0  auto;
 
 }
 
-nav{}
+nav{
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
