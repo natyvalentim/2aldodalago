@@ -23,3 +23,10 @@ header{
         font-size: 22px;
         text-decoration: none;
     }
+
+    nave a:hover{
+         color:aquamarine;
+         text-decoration: underline;
+
+
+    }
