@@ -24,7 +24,7 @@ header{
         text-decoration: none;
     }
 
-    nave a:hover{
+    nav a:hover{
          color:rgb(218, 49, 147);
          text-decoration: underline;
 }
